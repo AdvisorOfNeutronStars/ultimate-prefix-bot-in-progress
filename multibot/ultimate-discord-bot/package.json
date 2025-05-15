@@ -1,0 +1,20 @@
+{
+  "name": "ultimate-discord-bot",
+  "version": "1.0.0",
+  "description": "A multi-function Discord bot with moderation and utility commands.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "moderation",
+    "utility"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
